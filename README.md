@@ -1,6 +1,6 @@
 # generative.fm
 
-A platform for playing [generative music](https://medium.com/@metalex9/introduction-to-generative-music-91e00e4dba11) in the browser.
+一个提供在线播放[生成音乐](https://medium.com/@metalex9/introduction-to-generative-music-91e00e4dba11)的平台。
 
 https://generative.fm
 
@@ -30,17 +30,17 @@ Problems or general feedback can be reported [here on Github](https://github.com
 
 You can view which new features and bug fixes are currently planned, in progress, or waiting to be deployed to the site by visiting the [Generative.fm project board](https://github.com/orgs/generative-music/projects/2).
 
-## Installation
+## 安装
 
-You will need [Node.js](https://nodejs.org/en/) installed on your machine.
+你的设备必须安装了[Node.js](https://nodejs.org/en/) 。
 
-1. Clone to your machine.
-2. Navigate to the project's directory.
+1. 拷贝源文件到设备。
+2. 导航到项目路径。
 3. Run `npm i`.
 4. Run `npm start`.
-5. Navigate to [localhost:9999](http://localhost:9999).
+5. 浏览[localhost:9999](http://localhost:9999).
 
-### Local Sample Files
+### 本地示例文件
 
 Requests for sample files from the generative.fm sample CDN are blocked, see [#38](https://github.com/generative-music/generative.fm/issues/38). In order to play music locally, you will need to follow these instructions:
 
@@ -51,8 +51,8 @@ Requests for sample files from the generative.fm sample CDN are blocked, see [#3
 
 This will create the sample files on your machine to be served during local development.
 
-## Contributing
+## 贡献
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md).
+查看[CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
 [generative-music/samples.generative.fm]: https://github.com/generative-music/samples.generative.fm
