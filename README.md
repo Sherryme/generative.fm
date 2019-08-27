@@ -2,6 +2,8 @@
 
 一个提供在线播放[生成音乐](https://medium.com/@metalex9/introduction-to-generative-music-91e00e4dba11)的平台。
 
+说明：本项目为generative.fm的中文版，英文原版请移步[generative.fm](https://github.com/generative-music/generative.fm)。
+
 https://generative.fm
 
 ## Overview
